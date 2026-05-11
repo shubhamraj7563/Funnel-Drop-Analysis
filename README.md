@@ -248,7 +248,7 @@ This analysis shows that conversion is not limited by traffic or checkout — it
 ---
 
 ## Author
+*
+**Shubham singh*
 
-**Ashish Kumar Dongre**
-
-🔗 [LinkedIn](www.linkedin.com/in/shubham-singh7563) &nbsp; |&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-singh7563/) &nbsp; |&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)

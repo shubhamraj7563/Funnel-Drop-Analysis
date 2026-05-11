@@ -251,4 +251,4 @@ This analysis shows that conversion is not limited by traffic or checkout — it
 
 **Ashish Kumar Dongre**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/analytics-ak/funnel-drop-analysis/) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
+🔗 [LinkedIn](www.linkedin.com/in/shubham-singh7563) &nbsp; |&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
